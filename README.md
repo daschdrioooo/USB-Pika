@@ -12,8 +12,10 @@
 | 6 | 3 | TYPE-C 16PIN 2MD(073) | USB1,USB2,USB5 | — | TYPE-C 16PIN 2MD(073) | C2765186 | $0.0357 | [LCSC C2765186](https://www.lcsc.com/product-detail/C2765186.html) |
 | 7 | 2 | 10.0 QHHTZB6.3 (USB-A) | USB3,USB4 | — | 10.0 QHHTZB6.3 | C668591 | $ 0.0633 (10+) | [LCSC C668591](https://www.lcsc.com/product-detail/C668591.html) |
 
-### Link to EasyEDA project: https://pro.easyeda.com/editor#id=4bd402a712d24e60964939123472a255
-
+### Link to EasyEDA project: 
+https://pro.easyeda.com/editor#id=4bd402a712d24e60964939123472a255
+https://oshwlab.com/daschdrioooo/project_yhfozcjy
+ 
 ## Description of project
 
 This is a hardware project where I've designed a USB hub with a pikachu as the PCB outline. It's got one upstream port (USB-C) and four downstream ports (2 USB-C 2 USB-A). It was designed on EasyEDA's PCB editor. It's also my first ever hardware build!
