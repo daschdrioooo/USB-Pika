@@ -19,3 +19,6 @@ https://oshwlab.com/daschdrioooo/project_yhfozcjy
 ## Description of project
 
 This is a hardware project where I've designed a USB hub with a pikachu as the PCB outline. It's got one upstream port (USB-C) and four downstream ports (2 USB-C 2 USB-A). It was designed on EasyEDA's PCB editor. It's also my first ever hardware build!
+
+## CAD Source
+3D CAD source is contained within the EasyEDA project file (`source.epro2`). See also the STEP export (`3DPCB.step`) for the interchange-format 3D model.
