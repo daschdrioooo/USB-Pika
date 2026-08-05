@@ -15,7 +15,9 @@
 ### Link to EasyEDA project: 
 https://pro.easyeda.com/editor#id=4bd402a712d24e60964939123472a255
 https://oshwlab.com/daschdrioooo/project_yhfozcjy
- 
+
+(I set the project to public so these links should work now)
+
 ## Description of project
 
 This is a hardware project where I've designed a USB hub with a pikachu as the PCB outline. It's got one upstream port (USB-C) and four downstream ports (2 USB-C 2 USB-A). It was designed on EasyEDA's PCB editor. It's also my first ever hardware build!
