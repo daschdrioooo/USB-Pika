@@ -24,3 +24,8 @@ This is a hardware project where I've designed a USB hub with a pikachu as the P
 
 ## CAD Source
 3D CAD source is contained within the EasyEDA project file (`source.epro2`). See also the STEP export (`3DPCB.step`) for the interchange-format 3D model.
+
+## Images
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/e1ed8b6b-2d16-4c72-8a38-79b67e95c0ba" />
+
+<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/4b6d38be-584c-438d-88f8-85910d2a0e4e" />
